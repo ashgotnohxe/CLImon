@@ -1,0 +1,12 @@
+# name,type,hp,attack,defense,speed,move1,move2,move3
+# each move is name:type:power:accuracy:pp
+Cinderjay,Fire,62,52,48,56,Cinder Flick:Fire:42:95:10,Wing Jab:Normal:45:100:14,Flame Dive:Fire:55:80:6
+Reeflynx,Water,65,50,50,54,Reef Pulse:Water:42:95:10,Claw Tap:Normal:45:100:14,Tidal Crash:Water:55:80:6
+Mossback,Grass,70,48,52,48,Moss Lash:Grass:42:95:10,Shell Bump:Normal:45:100:14,Thorn Burst:Grass:55:80:6
+Dusthare,Normal,60,50,48,62,Dust Kick:Normal:49:90:10,Quick Hop:Normal:45:100:14,Heavy Stomp:Normal:55:78:7
+Flareyak,Fire,68,54,50,50,Coal Horn:Fire:42:95:10,Hoof Strike:Normal:45:100:14,Wild Horn:Normal:55:78:7
+Brookowl,Water,62,50,52,60,Brook Jet:Water:42:95:10,Talon Tap:Normal:45:100:14,Wide Sweep:Normal:55:78:7
+# Sample teammate monsters - replace with monsters named after the real teammates
+Ari,Fire,65,50,50,55,Ari Strike:Fire:42:95:10,Fire Burst:Fire:48:85:7,Body Check:Normal:45:100:14
+Ben,Water,65,50,50,53,Ben Strike:Water:42:95:10,Water Burst:Water:48:85:7,Body Check:Normal:45:100:14
+Cora,Grass,65,50,50,57,Cora Strike:Grass:42:95:10,Grass Burst:Grass:48:85:7,Body Check:Normal:45:100:14
